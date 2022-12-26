@@ -1,0 +1,15 @@
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\bin\Debug\net6.0\Task_41_M.exe
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\bin\Debug\net6.0\Task_41_M.deps.json
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\bin\Debug\net6.0\Task_41_M.runtimeconfig.json
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\bin\Debug\net6.0\Task_41_M.dll
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\bin\Debug\net6.0\Task_41_M.pdb
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.csproj.AssemblyReference.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.AssemblyInfoInputs.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.AssemblyInfo.cs
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.csproj.CoreCompileInputs.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.dll
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\refint\Task_41_M.dll
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.pdb
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\Task_41_M.genruntimeconfig.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_41_M\obj\Debug\net6.0\ref\Task_41_M.dll
