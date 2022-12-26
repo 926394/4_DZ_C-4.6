@@ -1,0 +1,15 @@
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.csproj.AssemblyReference.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.GeneratedMSBuildEditorConfig.editorconfig
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.AssemblyInfoInputs.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.AssemblyInfo.cs
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.csproj.CoreCompileInputs.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\bin\Debug\net6.0\Task_43_g.exe
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\bin\Debug\net6.0\Task_43_g.deps.json
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\bin\Debug\net6.0\Task_43_g.runtimeconfig.json
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\bin\Debug\net6.0\Task_43_g.dll
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\bin\Debug\net6.0\Task_43_g.pdb
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.dll
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\refint\Task_43_g.dll
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.pdb
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\Task_43_g.genruntimeconfig.cache
+D:\Master\1GB\4_DZ_C#4.6\Task_43_g\obj\Debug\net6.0\ref\Task_43_g.dll
